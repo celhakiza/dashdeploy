@@ -1,46 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c25c3394-d30b-48a4-af00-79ec5cd5ccf2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Pyramid.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/LFS_Participation.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/LFS_unempl.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/Pop_distribution.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/Pop_res.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/Rwanda-districts-geojson.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/Sex_age_group.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/Sex_age_group_1.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/Sex_age_group_rural.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/Sex_age_group_urban.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/agriculture_practice.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/birth_registration_0_17.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/cooking_type.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/disability_1.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/insurance.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/insurance_type.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/internet_access.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/lighting_1.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/main_source_water.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/population_change.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/population_density.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/primary_education_1.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/religion.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/secondary_education_1.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/toilet_type.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/type_habitant.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/~$Sex_age_group_1.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/~$toilet_type.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/render.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app.py" afterDir="false" />
-    </list>
+    <list default="true" id="c25c3394-d30b-48a4-af00-79ec5cd5ccf2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
