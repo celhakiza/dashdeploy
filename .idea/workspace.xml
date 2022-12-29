@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c25c3394-d30b-48a4-af00-79ec5cd5ccf2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Pyramid.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/LFS_Participation.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/LFS_unempl.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/Pop_distribution.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/Pop_res.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/Rwanda-districts-geojson.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/Sex_age_group.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/Sex_age_group_1.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/Sex_age_group_rural.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/Sex_age_group_urban.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/agriculture_practice.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/birth_registration_0_17.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/cooking_type.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/disability_1.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/insurance.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/insurance_type.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/internet_access.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/lighting_1.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/main_source_water.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/population_change.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/population_density.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/primary_education_1.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/religion.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/secondary_education_1.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/toilet_type.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/type_habitant.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/~$Sex_age_group_1.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data fro census dashboard/~$toilet_type.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/render.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Ia42bmjf23sFRoP81ex2uLEAtE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ENVY/PycharmProjects/Pyramid&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python.app">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pyramid" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pop (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pyramid" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/pop.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pyramid" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pop.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.pop (1)" />
+        <item itemvalue="Python.pop" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c25c3394-d30b-48a4-af00-79ec5cd5ccf2" name="Changes" comment="" />
+      <created>1670406154068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670406154068</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
