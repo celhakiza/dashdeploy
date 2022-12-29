@@ -14,10 +14,7 @@ df_age_group_urban=pd.read_excel(r'C:\Users\ENVY\PycharmProjects\Pyramid\Data fr
 df_age_group_rural=pd.read_excel(r'C:\Users\ENVY\PycharmProjects\Pyramid\Data fro census dashboard\Sex_age_group_rural.xlsx')
 
 #instantiate an app
-app=dash.Dash(__name__,external_stylesheets=[dbc.themes.BOOTSTRAP],
-              meta_tags=[{'name': 'viewport',
-                            'content': 'width=device-width, initial-scale=1.0'}]
-                )
+app=dash.Dash(__name__)
 server=app.server
 app.layout=dbc.Container(
     [
